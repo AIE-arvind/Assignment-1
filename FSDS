@@ -1,0 +1,27 @@
+1.
+## * is mathematical operator
+## 'hello' is string
+## - is mathematical subtraction operator
+## / is mathematical division operator
+## + is mathematical addition operator
+## -88.8 is float data type
+## 6 is integer data type
+
+2.## string is data type where as variable is location where a data stored
+
+3.##string, integer, complex
+
+4.## expression is combination of different mathematical operator
+## expression perform complex mathematical problem
+
+5.## In this assignment statement value is stored. Expression is a set of operator to perform mathematical problems
+
+6.## baccon contain 22
+
+7.## both return 3 times of 'spam'
+
+8.## because we can't store as iterable. Where as string is iterable
+
+9.## 1.int, 2.flot, 3.str
+
+10.## because of different data type. use '99' to print.
